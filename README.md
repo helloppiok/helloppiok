@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffd642&height=300&section=header&text=💡JungHyun&nbsp;Lee%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣JungHyun&nbsp;Lee%20&fontSize=90&animation=fadeIn)
 
 
 <div align="center"><h2>🔨 S T A C K 🔨</h2></div>
@@ -29,4 +29,5 @@
 <a href="mailto:wjdgus4935@gmail.com"><img height= "25" src="https://img.shields.io/badge/Gmail-EA4335?  style=plastic&logo=Gmail&logoColor=white"> </a>
 </div>
 <h3 align="center">ㅤ</h3>
-<h3 align="center">ㅤ</h3>
+
+![header](https://capsule-render.vercel.app/api?type=Rect&color=ffff&height=100&section=header&text=&nbsp;This&nbsp;is&nbsp;how&nbsp;life&nbsp;is%20&fontSize=20&animation=twinkling&fontColor=C2C1C2)
