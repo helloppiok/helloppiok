@@ -1,11 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffd642&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffd642&height=300&section=header&text=💡JungHyun&nbsp;Lee%20&fontSize=90)
 
 
-<div align="center"><h>🔨 S T A C K 🔨</h></div>
+<div align="center"><h2>🔨 S T A C K 🔨</h2></div>
 
-***
 <div align="center">
-Stacks that I've used at least once
+<h3>Stacks that I've used at least once</h3>
 
 <div align="center">
 <img height= "25" src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">  
@@ -17,23 +16,14 @@ Stacks that I've used at least once
 <img height= "25" src="https://img.shields.io/badge/ JSP -yellowgreen?  style=plastic&logoColor=white">  
 <img height= "25" src="https://img.shields.io/badge/jQuery-0769AD?  style=plastic&logo=jQuery&logoColor=white">  
 
-
+#   
+</div>
 </div>
 
+<div align="center"><h2>🍋About Me🍋</h2></div>
+
+<div align="center">
+<a href="https://codingjh.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-black?style=plastic;logoColor=white" style="max-width: 100%;" height= "25"></a>
+<a href="mailto:wjdgus4935@gmail.com"><img height= "25" src="https://img.shields.io/badge/Gmail-EA4335?  style=plastic&logo=Gmail&logoColor=white"> </a>
+
 </div>
-<!--
-**helloppiok/helloppiok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
