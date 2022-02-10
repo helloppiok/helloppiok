@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd642&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 <div align="center"><h>🔨 S T A C K 🔨</h></div>
----
+
+***
 <div align="center">
 Stacks that I've used at least once
 
