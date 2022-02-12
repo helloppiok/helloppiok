@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣JungHyun&nbsp;Lee%20&fontSize=90&animation=fadeIn)
 
 
@@ -15,6 +16,19 @@
 <img height= "25" src="https://img.shields.io/badge/Spring-6DB33F?  style=plastic&logo=Spring&logoColor=white">  
 <img height= "25" src="https://img.shields.io/badge/ JSP -yellowgreen?  style=plastic&logoColor=white">  
 <img height= "25" src="https://img.shields.io/badge/jQuery-0769AD?  style=plastic&logo=jQuery&logoColor=white"> 
+<img height= "25" src="https://img.shields.io/badge/Visual Studio Code-007ACC?  style=plastic&logo=Visual Studio Code&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/Eclipse IDE-2C2255?  style=plastic&logo=Eclipse IDE&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/SQL Developer-B4C8E4?  style=plastic&logo=&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/Figma-F24E1E?  style=plastic&logo=Figma&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/balsamiq-FFFFFF?  style=plastic&logo=&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/eXERD-AC5011?  style=plastic&logo=&logoColor=white"> 
+<img height= "25" src="https://img.shields.io/badge/ERDCloud-9388FB?  style=plastic&logo=&logoColor=white">   
+<img height= "25" src="https://img.shields.io/badge/Apache Tomcat-F8DC75?  style=plastic&logo=Apache Tomcat&logoColor=white">   
+<img height= "25" src="https://img.shields.io/badge/GitHub-181717?  style=plastic&logo=GitHub&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/Discord-5865F2?  style=plastic&logo=Discord&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/Notion-000000?  style=plastic&logo=Notion&logoColor=white">  
+
+
 
 </div>
 </div>
@@ -29,5 +43,3 @@
 <a href="mailto:wjdgus4935@gmail.com"><img height= "25" src="https://img.shields.io/badge/Gmail-EA4335?  style=plastic&logo=Gmail&logoColor=white"> </a>
 </div>
 <h3 align="center">ㅤ</h3>
-
-![header](https://capsule-render.vercel.app/api?type=Rect&color=ffff&height=100&section=header&text=&nbsp;This&nbsp;is&nbsp;how&nbsp;life&nbsp;is%20&fontSize=20&animation=twinkling&fontColor=C2C1C2)
