@@ -15,6 +15,7 @@
 <img height= "25" src="https://img.shields.io/badge/JavaScript-F7DF1E?  style=plastic&logo=JavaScript&logoColor=white">  
 <img height= "25" src="https://img.shields.io/badge/Spring-6DB33F?  style=plastic&logo=Spring&logoColor=white">  
 <img height= "25" src="https://img.shields.io/badge/ JSP -yellowgreen?  style=plastic&logoColor=white">  
+<img height= "25" src="https://img.shields.io/badge/ Servlet -yellowgreen?  style=plastic&logoColor=white">
 <img height= "25" src="https://img.shields.io/badge/jQuery-0769AD?  style=plastic&logo=jQuery&logoColor=white"> 
 <img height= "25" src="https://img.shields.io/badge/Visual Studio Code-007ACC?  style=plastic&logo=Visual Studio Code&logoColor=white">  
 <img height= "25" src="https://img.shields.io/badge/Eclipse IDE-2C2255?  style=plastic&logo=Eclipse IDE&logoColor=white">  
